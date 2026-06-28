@@ -9,7 +9,7 @@ export default function Navbar({ isLoggedIn, userType, isSubscribed, onSubscribe
           <div className="bg-white/10 p-2 rounded-xl">
             <Truck size={22} className="text-white" />
           </div>
-          <span className="font-extrabold tracking-tight text-lg">LogiTruck India</span>
+          <span className="font-extrabold tracking-tight text-lg">TransportMan</span>
         </div>
         
         {isLoggedIn && (

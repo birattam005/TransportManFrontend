@@ -10,7 +10,7 @@ export default function Login({ userType, setUserType, onLoginSuccess }) {
         <div className="w-16 h-16 bg-indigo-600 rounded-2xl flex items-center justify-center mx-auto mb-3 shadow-lg">
           <Truck className="text-white" size={32} />
         </div>
-        <h2 className="text-2xl font-bold text-slate-900">LogiTruck India</h2>
+        <h2 className="text-2xl font-bold text-slate-900">TransportMan</h2>
         <p className="text-xs text-slate-500 font-medium">Transport Act Protocol Framework</p>
       </div>
 
